@@ -2,12 +2,12 @@
 
 # Hi there 👋, I'm Sudip Ghimire
 
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex;">
 
 <div style="width:40%">
 
 - こんにちは> 🙇‍♂️、スディップギミレです。
-- नमस्ते 🙏, मेरो नाम सुदिप घिमिरे हो। 
+- नमस्ते 🙏, मेरो नाम सुदिप घिमिरे हो।
 - Bonjour 👋, je m'appelle Sudip Ghimire.
 
 </div>
@@ -28,27 +28,30 @@
 
 Basically, I am a full-stack (Web2 and Web3) developer and sometimes, a designer😜.
 
-<div style="display:flex;">
+<div style="display:flex; gap:10px;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rustlang" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="48" height="48" style="filter:invert(0.5)"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" alt="python" width="48" height="48" />
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" alt="rustlang" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Dark.svg" alt="nodejs" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Solidity.svg" alt="solidity" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg" alt="java" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" alt="typescript" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Dark.svg" alt="postgresql" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Blender-Dark.svg" alt="blender" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" alt="photoshop" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" alt="figma" width="48" height="48">
 
 </div>
 
+-----
+
 I have years of experience with frameworks like `django`, `ReactJS`, etc.
 
-<div style="display:flex;">
+<div style="display:flex; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="48" height="48"  style="filter:brightness(3)">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="48" height="48" style="filter:invert(0.4)">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NextJS-Dark.svg" alt="next" width="48" height="48">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="48" height="48" />
@@ -58,16 +61,18 @@ I have years of experience with frameworks like `django`, `ReactJS`, etc.
 
 </div>
 
+-----
+
 I have linux and windows-based workspaces on PC and Cloud
-<div class="display:flex;">
+<div class="display:flex; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="48" height="48">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="48" height="48">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="mac" width="48" height="48"> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="48" height="48">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48"  style="filter:invert(0.4)">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="48" height="48" style="filter:brightness(2)"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg" alt="github" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg" alt="aws" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="48" height="48">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="48" height="48" />
