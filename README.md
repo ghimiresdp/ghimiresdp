@@ -42,6 +42,7 @@ Basically, I am a full-stack (Web2 and Web3) developer and sometimes, a designer
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" alt="figma" width="48" height="48">
 
 </div>
+<br><br>
 
 -----
 
@@ -49,17 +50,18 @@ I have years of experience with frameworks like `django`, `ReactJS`, etc.
 
 <div style="display:flex; gap:10px;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="48" height="48"  style="filter:brightness(3)">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg" alt="django" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NextJS-Dark.svg" alt="next" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Actix-Dark.svg" alt="actix" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bootstrap.svg" alt="bootstrap" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Sass.svg" alt="sass" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="48" height="48">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TensorFlow-Dark.svg" alt="tensorflow" width="48" height="48">
 
 </div>
+<br><br>
 
 -----
 
@@ -76,7 +78,14 @@ I have linux and windows-based workspaces on PC and Cloud
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="48" height="48">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="48" height="48" />
+</div>
+<br><br>
 
+-----
+I also have a solid experience in hardware and IOT
+<div style="display:flex; gap:10px;">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Arduino.svg" alt="arduino" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/RaspberryPi-Dark.svg" alt="raspberry pi" width="48" height="48"/>
 </div>
 <!-- <img src="" alt="" width="48" height="48"> -->
 
