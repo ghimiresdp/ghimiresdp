@@ -1,3 +1,5 @@
+![Cover Photo](res/cover.jpg)
+
 # Hi there 👋, I'm Sudip Ghimire
 
 <div style="display:flex; flex-direction:row;">
@@ -28,7 +30,7 @@ Basically, I am a full-stack (Web2 and Web3) developer and sometimes, a designer
 
 <div style="display:flex;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rustlang" width="48" height="48" style="filter:invert(0.7)">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rustlang" width="48" height="48">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="48" height="48" style="filter:invert(0.5)"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
