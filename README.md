@@ -28,8 +28,6 @@
 
 Basically, I am a full-stack (Web2 and Web3) developer and sometimes, a designer😜.
 
-<div style="display:flex;">
-
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" alt="python" width="48" height="48" />&nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" alt="rustlang" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Dark.svg" alt="nodejs" width="48" height="48" />&nbsp;&nbsp;
@@ -41,12 +39,9 @@ Basically, I am a full-stack (Web2 and Web3) developer and sometimes, a designer
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" alt="photoshop" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" alt="figma" width="48" height="48">&nbsp;&nbsp;
 
-</div>
 <br>
 
 I have years of experience with frameworks like `django`, `ReactJS`, etc.
-
-<div style="display:flex;">
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg" alt="django" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react" width="48" height="48" />&nbsp;&nbsp;
@@ -58,12 +53,9 @@ I have years of experience with frameworks like `django`, `ReactJS`, etc.
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TensorFlow-Dark.svg" alt="tensorflow" width="48" height="48">&nbsp;&nbsp;
 
-</div>
 <br>
 
 I have linux and windows-based workspaces on PC and Cloud
-
-<div style="display:flex;">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="48" height="48">&nbsp;&nbsp;
@@ -74,15 +66,14 @@ I have linux and windows-based workspaces on PC and Cloud
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/GCP-Dark.svg" alt="gcp" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Nginx.svg" alt="nginx" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Redis-Dark.svg" alt="redis" width="48" height="48" />&nbsp;&nbsp;
-</div>
+
 <br>
 
 I also have a solid experience in hardware and IOT
 
-<div style="display:flex;">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Arduino.svg" alt="arduino" width="48" height="48"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/RaspberryPi-Dark.svg" alt="raspberry pi" width="48" height="48"/>&nbsp;&nbsp;
-</div>
+
 <!-- <img src="" alt="" width="48" height="48"> -->
 
 <!-- ## 🔭 I’m currently (but not actively) working on some of the projects
