@@ -57,8 +57,8 @@ I have years of experience with frameworks like `django`, `ReactJS`, etc.
 
 I have linux and windows-based workspaces on PC and Cloud
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="48" height="48">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="48" height="48">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="windows" width="48" height="48">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" alt="ubuntu" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg" alt="Docker" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg" alt="github" width="48" height="48">&nbsp;&nbsp;
