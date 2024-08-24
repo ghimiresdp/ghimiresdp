@@ -2,27 +2,12 @@
 
 # Hi there 👋, I'm Sudip Ghimire
 
-<div style="display:flex;">
+- 🙇‍♂️ こんにちは、スディップギミレです。
+- 🙏 नमस्ते, मेरो नाम सुदिप घिमिरे हो।
+- 👋 Bonjour, je m'appelle Sudip Ghimire.
 
-<div style="width:40%">
-
-- こんにちは> 🙇‍♂️、スディップギミレです。
-- नमस्ते 🙏, मेरो नाम सुदिप घिमिरे हो।
-- Bonjour 👋, je m'appelle Sudip Ghimire.
-
-</div>
-
-<div style="width:60%">
-
-- 🔊 Pronouns: (`he`/`his`/`him`).
-- 🌱 I’m currently actively learning and engaging on `rustlang`-based projects.
-- 📫 You can reach me at <https://linkedin.com/in/ghimiresdp>.
-- 📌 I am currently in Nepal
-- 🌏 I can Speak `English`, `Nepali` fluently and some `Hindi` and `Japanese` too
-
-</div>
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghimiresdp&theme=transparent&hide_border=true)
 
 ## Tools I use
 
