@@ -16,7 +16,7 @@
 
 - 🔊 Pronouns: (`he`/`his`/`him`).
 - 🌱 I’m currently actively learning and engaging on `rustlang`-based projects.
-- 📫 You can reach me at <https://linkedin.com/ghimiresdp>.
+- 📫 You can reach me at <https://linkedin.com/in/ghimiresdp>.
 - 📌 I am currently in Nepal
 - 🌏 I can Speak `English`, `Nepali` fluently and some `Hindi` and `Japanese` too
 
