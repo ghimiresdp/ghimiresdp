@@ -1,13 +1,11 @@
 ![Cover Photo](res/cover.jpg)
 
-# Hi there 👋, I'm Sudip Ghimire
+# Hi there 👋, I'm Sudip Ghimire [ スディップギミレ | सुदिप घिमिरे ]
 
-- 🙇‍♂️ こんにちは、スディップギミレです。
-- 🙏 नमस्ते, मेरो नाम सुदिप घिमिरे हो।
-- 👋 Bonjour, je m'appelle Sudip Ghimire.
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresdp&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghimiresdp&theme=transparent&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=ghimiresdp&theme=radical&hide_border=true)
 
 ## Tools I use
 
@@ -26,7 +24,7 @@ Basically, I am a full-stack (Web2 and Web3) developer and sometimes, a designer
 
 <br>
 
-I have years of experience with frameworks like `django`, `ReactJS`, etc.
+I have years of experience with frameworks like `django`, `ReactJS`, `Tailwind Css`, `Hardhat` etc.
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg" alt="django" width="48" height="48">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react" width="48" height="48" />&nbsp;&nbsp;
