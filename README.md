@@ -19,15 +19,15 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Arduino.svg" alt="arduino" width="48" height="48"/>](https://www.arduino.cc/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/RaspberryPi-Dark.svg" alt="raspberry pi" width="48" height="48"/>](https://www.raspberrypi.com/)&nbsp;&nbsp;
 
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg" alt="django" width="48" height="48">](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react" width="48" height="48" />](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NextJS-Dark.svg" alt="next" width="48" height="48">](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Actix-Dark.svg" alt="actix" width="48" height="48" />](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bootstrap.svg" alt="bootstrap" width="48" height="48" />](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Sass.svg" alt="sass" width="48" height="48" />](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind" width="48" height="48">](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="48" height="48">](#)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TensorFlow-Dark.svg" alt="tensorflow" width="48" height="48">](#)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg" alt="django" width="48" height="48">](https://www.djangoproject.com/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Dark.svg" alt="react" width="48" height="48" />](https://react.dev/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NextJS-Dark.svg" alt="next" width="48" height="48">](https://nextjs.org/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Actix-Dark.svg" alt="actix" width="48" height="48" />](https://actix.rs/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bootstrap.svg" alt="bootstrap" width="48" height="48" />](https://getbootstrap.com/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Sass.svg" alt="sass" width="48" height="48" />](https://sass-lang.com/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TailwindCSS-Dark.svg" alt="tailwind" width="48" height="48">](https://tailwindui.com/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="48" height="48">](https://scikit-learn.org/stable/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TensorFlow-Dark.svg" alt="tensorflow" width="48" height="48">](https://www.tensorflow.org/)&nbsp;&nbsp;
 
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Blender-Dark.svg" alt="blender" width="48" height="48">](https://www.blender.org/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" alt="photoshop" width="48" height="48">](https://www.adobe.com/products/photoshop.html)&nbsp;&nbsp;
