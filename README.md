@@ -2,10 +2,10 @@
 
 # Hi there 👋, I'm Sudip Ghimire [スディップ・ギミレ | सुदिप घिमिरे ]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresdp&theme=radical&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=ghimiresdp&theme=radical&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=ghimiresdp&theme=transparent&hide_border=true)
 
 ## Tools I use
 
