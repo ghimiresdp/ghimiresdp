@@ -1,6 +1,15 @@
+# Sudip Ghimire
+
 ![Cover Photo](res/cover.jpg)
 
-# Hi there 👋, I'm Sudip Ghimire [スディップ・ギミレ | सुदिप घिमिरे ]
+ Hi there 👋, I'm Sudip Ghimire
+
+- 🇯🇵 スディップ・ギミレ
+- 🇳🇵 सुदिप घिमिरे
+
+I am an electronics and communication engineer by degree, and a software engineer
+by profession. I guess, I am a jack of both softwares and firmwares, and do 3D
+when I get bored 😂.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&count_private=true)
@@ -11,12 +20,11 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,rust,nodejs,solidity,java,ts&perline=6)](https://skillicons.dev) -->
 
-
 <!-- [ Programming Languages ] -->
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width="42"/>](https://python.org)&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="rustlang" width="42" >]([https://rust-lang.org](https://www.rust-lang.org/))&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="42"  />](https://nodejs.org)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" alt="solidity" width="42" />](https://soliditylang.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="42"  />](https://isocpp.org/)&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width="42" />](https://www.java.com/en/)&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="42"  />](https://www.typescriptlang.org/)&nbsp;
 
@@ -60,11 +68,8 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="42" >](https://www.adobe.com/products/photoshop.html)&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width="42" >](https://www.figma.com/)&nbsp;
 
-<!-- <img src="" alt="" width="42" > -->
+## 🔭 I’m currently (but not actively) working on some of the projects
 
-<!-- ## 🔭 I’m currently (but not actively) working on some of the projects
-
-- [prefab server](https://github.com/ghimiresdp/prefab)
-- [Rust Challenges](https://github.com/ghimiresdp/rust-challenges)
-- [Python Projects](https://github.com/ghimiresdp/python-projects)
-- [Python Notes](https://github.com/ghimiresdp/python-notes) -->
+- [fURL - A simple multithreaded download manager made from scratch with Rust](https://github.com/ghimiresdp/furl-cli)
+- [Rust Raid - A good set of algorithms, data structures, and challenges for rustlang enthusiasts](https://github.com/ghimiresdp/rust-raid)
+- [Python Perks - A good set of algorithms, data structures, and challenges for python enthusiasts](https://github.com/ghimiresdp/python-perks)
