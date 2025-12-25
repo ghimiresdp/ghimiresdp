@@ -8,8 +8,7 @@
 - 🇳🇵 सुदिप घिमिरे
 
 I am an electronics and communication engineer by degree, and a software engineer
-by profession. I guess, I am a jack of both softwares and firmwares, and do 3D
-when I get bored 😂.
+by profession.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&count_private=true)
