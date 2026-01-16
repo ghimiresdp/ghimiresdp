@@ -7,13 +7,9 @@
 - 🇯🇵 スディップ・ギミレ
 - 🇳🇵 सुदिप घिमिरे
 
-I am an electronics and communication engineer by degree, and a software engineer
-by profession.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimiresdp&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://streak-stats.demolab.com?user=ghimiresdp&theme=transparent&hide_border=true)
+I’m a software engineer with a strong systems mindset and a habit of going _below the abstraction_.
+Started with electronics & IoT, moved deep into backend, systems programming, and architecture.
+I enjoy building tools, not just apps — especially things that improve developer experience or solve real coordination problems (state, sync, correctness).
 
 ## Tools I use
 
