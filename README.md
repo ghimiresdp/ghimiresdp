@@ -1,67 +1,60 @@
 # Sudip Ghimire
 
+🇳🇵 _सुदिप घिमिरे_ | 🇯🇵 _ギミレ・スディップ_
+
 ![Cover Photo](res/cover.jpg)
 
- Hi there 👋, I'm Sudip Ghimire
+---
 
-- 🇯🇵 スディップ・ギミレ
-- 🇳🇵 सुदिप घिमिरे
-
-I’m a software engineer with a strong systems mindset and a habit of going _below the abstraction_.
-Started with electronics & IoT, moved deep into backend, systems programming, and architecture.
-I enjoy building tools, not just apps — especially things that improve developer experience or solve real coordination problems (state, sync, correctness).
+- I'm a Systems engineer operating below the standard abstraction layers.
+- With roots in hardware, electronics, and IoT, I specialize in building
+  concurrent backends, distributed architectures, and custom systems tooling.
+- I enjoy building tools, not just apps — state, sync, correctness, and
+  performance
 
 ## Tools I use
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,rust,nodejs,solidity,java,ts&perline=6)](https://skillicons.dev) -->
+## 🛠️ Core Stack & Domains
 
-<!-- [ Programming Languages ] -->
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width="42"/>](https://python.org)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="rustlang" width="42" >]([https://rust-lang.org](https://www.rust-lang.org/))&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="42"  />](https://nodejs.org)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="42"  />](https://isocpp.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width="42" />](https://www.java.com/en/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="42"  />](https://www.typescriptlang.org/)&nbsp;
+### 🚀 Systems & Concurrency
 
-<!-- [ Frameworks ] -->
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="django" width="42" >](https://www.djangoproject.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="42"  />](https://react.dev/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="next" width="42" >](https://nextjs.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="42"  />](https://getbootstrap.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" alt="sass" width="42"  />](https://sass-lang.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="42" >](https://tailwindui.com/)&nbsp;
+![Rustlang](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<!-- second line -->
-<!-- [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Actix-Dark.svg" alt="actix" width="42"  />](https://actix.rs/)&nbsp; -->
+- **Focus:** Asynchronous runtimes (`Tokio`), custom CLI tool distribution, memory safety without garbage collection, and raw resource optimization.
 
-<!-- [ Cloud ] -->
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="42" >](https://github.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="aws" width="42" />](https://aws.amazon.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" alt="gcp" width="42"  />](https://cloud.google.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" alt="cloudflare" width="42"  />](https://www.cloudflare.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="nginx" width="42" >](https://nginx.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" alt="redis" width="42"  />](https://redis.io/)&nbsp;
+### 🌐 Backend & Distributed Infrastructure
 
-<!-- [ Platforms ] -->
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="windows" width="42" >](#)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="ubuntu" width="42" >](#)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="42" >](#)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="42"  />](#)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="arduino" width="42" />](https://www.arduino.cc/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="raspberry pi" width="42" />](https://www.raspberrypi.com/)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<!-- [ Data Science ] -->
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="42" >](https://www.postgresql.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" alt="octave" width="42" >](https://octave.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" alt="matlab" width="42" >]([https://.org/](https://www.mathworks.com/products/matlab.html))&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" alt="scikit-learn" width="42" >](https://scikit-learn.org/stable/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="42" >](https://www.tensorflow.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" alt="opencv" width="42" >](https://opencv.org/)&nbsp;
+- **Focus:** High-throughput polyglot microservices, multi-tenant database synchronization, and real-time state orchestration via WebSockets.
 
-<!-- [ Graphics ] -->
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="blender" width="42" >](https://www.blender.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="42" >](https://www.adobe.com/products/photoshop.html)&nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width="42" >](https://www.figma.com/)&nbsp;
+### 🔌 Embedded Systems & IoT
+
+![ESP](https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+- **Focus:** Firmware development, hardware-to-software bridging, serial communication interfaces (`UART`, `SPI`, `I2C`), and sensor array integration.
+
+### ⚙️ Cloud Infrastructure & DevOps
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+- **AWS Ecosystem:** Production experience orchestrating container clusters (`ECS`), event-driven serverless computing (`Lambda`), elastic resources (`EC2`), decoupled notification queues (`SNS`), and scalable messaging components (`SES`).
+- **GCP Infrastructure:** Practical insights into managed cloud environments, storage abstractions, and foundational computing pipelines.
+- **CI/CD & Automation:** Building, testing, and distributing packages via automated execution tracks using both **GitHub Actions** and enterprise-grade **CircleCI** matrices.
+- **Observability & Health:** Implementing log aggregation, synthetic monitoring, performance telemetry tracing, and live system metrics inside **Datadog**.
+- **Orchestration & Env:** Containerizing cross-language microservices with Docker and maintaining deterministic Linux host runtime configurations.
 
 ## 🔭 I’m currently (but not actively) working on some of the projects
 
