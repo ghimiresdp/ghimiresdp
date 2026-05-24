@@ -56,8 +56,34 @@
 - **Observability & Health:** Implementing log aggregation, synthetic monitoring, performance telemetry tracing, and live system metrics inside **Datadog**.
 - **Orchestration & Env:** Containerizing cross-language microservices with Docker and maintaining deterministic Linux host runtime configurations.
 
-## 🔭 I’m currently (but not actively) working on some of the projects
+## 📂 Core Implementations & Reference Libraries
 
-- [fURL - A simple multithreaded download manager made from scratch with Rust](https://github.com/ghimiresdp/furl-cli)
-- [Rust Raid - A good set of algorithms, data structures, and challenges for rustlang enthusiasts](https://github.com/ghimiresdp/rust-raid)
-- [Python Perks - A good set of algorithms, data structures, and challenges for python enthusiasts](https://github.com/ghimiresdp/python-perks)
+### 🚀 Featured Systems Tooling
+
+#### 🦀 [furl-cli](https://github.com/ghimiresdp/furl-cli)
+
+*High-Performance Multithreaded Async Download Engine_
+
+- **Core Stack:** `Rust` | `Tokio` | `Reqwest` | `Indicatif`
+- **Architecture:** Implements a decoupled library-and-binary crate ecosystem. Features an asynchronous chunk-splitting execution loop restricted to a strict 10MB maximum chunk buffer to optimize OS network interfaces and memory consumption.
+- **Status:** Fully Functional / Active Maintenance. Distributed natively via Crates.io and WinGet.
+
+---
+
+### 📚 Structural & Educational References
+
+#### ⚔️ [rust-raid](https://github.com/ghimiresdp/rust-raid)
+
+**_Idiomatic Rust Design Patterns & Concurrency Sandbox_**
+
+- **Core Stack:** `Rust` (Async/Await, Multithreading, Unsafe Sandbox)
+- **Purpose:** A structured open-source reference mapping out complex language paradigms. Focuses on safe memory management without a Garbage Collector, dynamic dispatch traits, explicit type-system constraints, and manual multi-threaded worker configurations (`std::thread`, `Futures`).
+- **Status:** Curated Patterns Archive (Stable implementations with occasional additions).
+
+#### 🐍 [python-perks](https://github.com/ghimiresdp/python-perks)
+
+**_Advanced Python Optimization & Design Patterns_**
+
+- **Core Stack:** `Python` (Advanced Metaprogramming, Multiprocessing, Asyncio)
+- **Purpose:** A comprehensive code repository illustrating clean software design principles in Python. Features deep dives into custom context managers, decorator architectures, memory-optimized generator loops, and high-performance concurrent scheduling.
+- **Status:** Curated Patterns Archive (Stable implementations with occasional additions).
